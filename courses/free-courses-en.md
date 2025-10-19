@@ -1,4 +1,9 @@
 ### Index
+📚 Free Tech Learning Resources
+
+This repository collects **free courses, tutorials, and learning materials** (mainly in Spanish) across various tech fields — from programming and web development to data science and artificial intelligence.
+
+> 💡 All resources listed here are publicly available and mostly in Spanish. You’re welcome to contribute by adding new verified and free learning links.
 
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
